@@ -8,7 +8,6 @@ coverage/
 
 # Expo
 .expo/
-dist/
 web-build/
 
 # Native
