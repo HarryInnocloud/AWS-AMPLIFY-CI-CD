@@ -1,0 +1,13 @@
+{
+    "accessToken":"accessToken",
+    "idToken":"idToken",
+    "refreshToken":"refreshToken",
+    "signInDetails":"signInDetails",
+    "LastAuthUser":"LastAuthUser",
+    "username":"username",
+    "userId":"userId",
+    "tokens":"tokens",
+    "phonenumberstatus":"phone_number_verified",
+    "userDetails":"userDetails",
+    "teacherDetails":"teacherDetails"
+}
